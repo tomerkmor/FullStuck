@@ -1,0 +1,9 @@
+// to set a theme for language:
+// press: alt & shift & t
+// ==> set theme ==> choose one
+
+
+
+{
+    "workbench.colorTheme": "Cobalt2"
+}
